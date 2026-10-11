@@ -10,6 +10,8 @@ A fictional 1980s nuclear plant main control room, retrofitted in a cyberpunk st
 |---|---|---|
 | `control-room/control_room_wide_16x10.jpg` | 5504 × 3440 | MacBook displays (16:10) |
 | `control-room/control_room_wide_16x9.jpg` | 5504 × 3072 | 16:9 monitors |
+| `control-room/control_room_operator_seat_16x10.jpg` | 5504 × 3440 | Operator's seat view, 16:10 |
+| `control-room/control_room_operator_seat_16x9.jpg` | 5504 × 3072 | Operator's seat view, 16:9 |
 
 Made with Google's Nano Banana Pro (Gemini 3 Pro Image) through OpenRouter, with deterministic touch-ups in Python. Freely licensed Wikimedia Commons photos of real control rooms were used only as style references.
 
